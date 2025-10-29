@@ -33,10 +33,15 @@ print(type(Fruit))
 Student={
     "Name":"M.Abdul Wassay Khan",
     "Reg#":"MC-BSCS-243-007",
-    "":"",
-    "":"",
-    "":"",
-    "":"",
+    "CGPA":"3.75",
+    "Email":"mawk@example.com",
+    "Phone":"123-456-7890",
+    "Address":"123 Main St, Multan, Pakistan",
 }
+print(Student)
+print(type(Student))
+print(Student["Name"])
+print(len(Student))
+
 
 
