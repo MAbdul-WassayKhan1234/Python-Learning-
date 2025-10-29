@@ -24,7 +24,7 @@ A,B,C = "Orange","Banana","Apple"
 print(A,B,C)
 
 Fruit = ["Orange","Banana","Apple"]
-print(Fruit)
+print(Fruit) 
 
 X=range(10)
 print(X)
