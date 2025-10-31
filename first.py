@@ -6,6 +6,7 @@
 # open terminal or command prompt
 # Navigate to the directory where your Python file is located using 'cd' and press tab key for auto-completion
 # PS C:\Users\HC\Desktop\.py>  python first.py
+# To check Python version installed
 # PS C:\Users\HC\Desktop\.py> python --version
 
 ##################################### Getting Started with Python ############################################
@@ -16,6 +17,9 @@
 
 # Printing Hello World
 print("Hello World")
+
+# Printing single value
+print(3)
 
 # Printing multiple values
 print(3,2,1)
