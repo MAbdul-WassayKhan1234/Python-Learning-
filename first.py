@@ -5,9 +5,9 @@
 # Create a new Python file with .py extension (e.g., first.py)
 # open terminal or command prompt
 # Navigate to the directory where your Python file is located using 'cd' and press tab key for auto-completion
-# PS C:\Users\HC\Desktop\.py>  python first.py
+# PS C:\Users\HC\Desktop\.py\PY.code>  python first.py
 # To check Python version installed
-# PS C:\Users\HC\Desktop\.py> python --version
+# PS C:\Users\HC\Desktop\.py\PY.code> python --version
 
 ##################################### Getting Started with Python ############################################
 
