@@ -1,4 +1,4 @@
-# ##################################### Getting Started with Python ############################################
+# ##################################### Getting Started with Python ###################################
 
 # Install Python from https://www.python.org/downloads/
 # Install IDE (Integrated Development Environment) like VSCode
@@ -9,7 +9,7 @@
 # To check Python version installed
 # PS C:\Users\HC\Desktop\.py\PY.code> python --version
 
-##################################### Getting Started with Python ############################################
+##################################### Getting Started with Python ######################################
 
 
 # ### Python Basics                   
