@@ -71,6 +71,13 @@ print(type(Student))
 print(Student["Name"])
 print(len(Student))
 
+# Single line comment
+
+'''
+Multi-line comment
+This is a multi-line comment
+'''
+
 # boolean values
 
 print(10<5)
