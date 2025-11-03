@@ -71,4 +71,16 @@ print(type(Student))
 print(Student["Name"])
 print(len(Student))
 
+# boolean values
+
+print(10<5)
+print(8==7)
+print(5>2)
+
+# Declaration of variables of integer data types
+
+a,b,c,d,e,f,g,h,i,j= 1,2,3,4,5,6,7,8,9,10
+print(a,b,c,d,e,f,g,h,i,j)
+
+
 # #<!-------------------------------------- End of Python Basics ------------------------------------------!># #
