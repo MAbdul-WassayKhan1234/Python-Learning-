@@ -78,7 +78,7 @@ Multi-line comment
 This is a multi-line comment
 '''
 
-# boolean values
+# Boolean values
 
 print(10<5)
 print(8==7)
@@ -88,6 +88,12 @@ print(5>2)
 
 a,b,c,d,e,f,g,h,i,j= 1,2,3,4,5,6,7,8,9,10
 print(a,b,c,d,e,f,g,h,i,j)
+
+# Getting input from user
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Name:",name)
+print("Age:",age)
 
 
 # #<!-------------------------------------- End of Python Basics ------------------------------------------!># #
