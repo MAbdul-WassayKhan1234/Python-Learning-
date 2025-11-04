@@ -96,6 +96,7 @@ print("Name:",name)
 print("Age:",age)
 
 # Python Operators
+# Arithmetic Operators
 x = 10
 y = 3
 print("Addition:", x + y)
@@ -105,6 +106,24 @@ print("Division:", x / y)
 print("Floor Division:", x // y)
 print("Modulus:", x % y)
 print("Exponentiation:", x ** y)
+
+# Assignment Operators
+x = 5
+x += 3  # Equivalent to x = x + 3
+print("x after += 3:", x)
+x *= 2  # Equivalent to x = x * 2
+print("x after *= 2:", x)
+x -= 4  # Equivalent to x = x - 4
+print("x after -= 4:", x)
+x /= 2  # Equivalent to x = x / 2
+print("x after /= 2:", x)
+x %= 3  # Equivalent to x = x % 3
+print("x after %= 3:", x)
+x **= 4  # Equivalent to x = x ** 4
+print("x after **= 4:", x)
+x //= 3  # Equivalent to x = x // 3
+print("x after //= 3:", x) 
+
 
 
 
