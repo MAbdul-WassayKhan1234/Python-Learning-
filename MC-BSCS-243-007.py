@@ -1,15 +1,15 @@
-# ##################################### Getting Started with Python ###################################
+# # ##################################### Getting Started with Python ###################################
 
-# Install Python from https://www.python.org/downloads/
-# Install IDE (Integrated Development Environment) like VSCode
-# Create a new Python file with .py extension (e.g., first.py)
-# open terminal or command prompt
-# Navigate to the directory where your Python file is located using 'cd' and press tab key for auto-completion
-# PS C:\Users\HC\Desktop\.py\PY.code>  python first.py
-# To check Python version installed
-# PS C:\Users\HC\Desktop\.py\PY.code> python --version
+# # Install Python from https://www.python.org/downloads/
+# # Install IDE (Integrated Development Environment) like VSCode
+# # Create a new Python file with .py extension (e.g., first.py)
+# # open terminal or command prompt
+# # Navigate to the directory where your Python file is located using 'cd' and press tab key for auto-completion
+# # PS C:\Users\HC\Desktop\.py\PY.code>  python first.py
+# # To check Python version installed
+# # PS C:\Users\HC\Desktop\.py\PY.code> python --version
 
-##################################### Getting Started with Python ######################################
+# ##################################### Getting Started with Python ######################################
 
 
 # ### Python Basics                   
@@ -124,7 +124,36 @@ print("x after **= 4:", x)
 x //= 3  # Equivalent to x = x // 3
 print("x after //= 3:", x) 
 
+# Conditions in python
+a=12
+b=11
+if a > b :
+    print("a is greater then b ")
+
+
+realage = 23
+fakeage = 23
+if realage > fakeage:
+    print("real age is :",realage)
+elif realage > fakeage:
+    print("fake age is:",fakeage) 
+elif realage == fakeage :
+    print("real age is equals to fake age")
+else :
+    print("real age is :",realage)
+
+# Loops in python
+for i in range(5):
+    print("Iteration number:", i)
+count = 0
+while count < 5:
+    print("Count is:", count)
+    count += 1
+
+
 
 
 
 # #<!-------------------------------------- End of Python Basics ------------------------------------------!># #
+
+
